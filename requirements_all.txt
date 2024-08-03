@@ -1,0 +1,13 @@
+tkinter
+pytube
+youtube_transcript_api
+tqdm
+moviepy
+deep_translator
+audio_separator
+pydub
+TTS
+numpy
+opencv-python
+speech_recognition
+ffmpeg-python
