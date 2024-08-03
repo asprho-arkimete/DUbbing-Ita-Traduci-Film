@@ -32,4 +32,10 @@ Nota: Tutti i modelli di rete necessari verranno scaricati automaticamente.
 
 Buona traduzione audio! 🎬🎧
 
+Test>
+      versione originale: https://www.youtube.com/watch?v=ZhgiKUqkikM&t=2867s&ab_channel=TheMidnightScreening
+      versione Ita tradotto con [IA]: https://www.youtube.com/watch?v=SJmKUeC6gSo&ab_channel=asphoarkimete
+
+
+
 
